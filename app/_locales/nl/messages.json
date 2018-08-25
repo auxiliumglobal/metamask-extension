@@ -30,7 +30,7 @@
     "message": "Bedrag + gas"
   },
   "appDescription": {
-    "message": "Auxilium Browser-extensie",
+    "message": "Auxilium Browser Plug-in",
     "description": "De beschrijving van de applicatie"
   },
   "appName": {
@@ -441,7 +441,7 @@
     "message": "Bericht"
   },
   "metamaskDescription": {
-    "message": "Auxilium is een veilige identiteitskluis voor Auxilium."
+    "message": "Auxilium Browser Plug-in is een veilige identiteitskluis voor Auxilium."
   },
   "min": {
     "message": "Minimum"

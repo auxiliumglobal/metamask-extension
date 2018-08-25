@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="78px" viewBox="0 0 80 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>deposit-eth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.7665983%" y1="0.380715327%" x2="50.471614%" y2="98.7488036%" id="linearGradient-1">
+            <stop stop-color="#89D615" offset="0%"></stop>
+            <stop stop-color="#68C235" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="deposit-eth">
+            <g id="Oval">
+                <g id="path-1-link" fill="#FFFFFF">
+                    <circle id="path-1" cx="34" cy="34" r="34"></circle>
+                </g>
+                <circle stroke="#38393A" stroke-width="3" cx="34" cy="34" r="32.5"></circle>
+            </g>
+            <g id="auxilium-square" transform="translate(22.000000, 22.000000)">
+                <g>
+                    <polygon id="path830" fill="url(#linearGradient-1)" fill-rule="nonzero" points="0.0140880994 24.9577307 9.00640124 0.0205314027 16.1791006 0.0204538678 24.9879919 24.9579173 17.9148916 24.9579173 12.5432797 10.0741058 7.22078983 24.9579173"></polygon>
+                    <polygon id="path1178-2-26-0-5" fill-opacity="0.45226129" fill="#000000" fill-rule="nonzero" points="15.911595 0.538464385 15.8649322 19.2392844 12.5432797 10.0741058"></polygon>
+                    <polygon id="path6044-0" fill-opacity="0.08287294" fill="#000000" fill-rule="nonzero" points="9.00640124 0.0205314027 0.0140872813 24.9577393 16.1791006 0.0204538678"></polygon>
+                </g>
+            </g>
+            <g id="Group-6" transform="translate(46.000000, 44.000000)">
+                <g id="Oval-Copy">
+                    <g id="path-2-link" fill="#FFFFFF">
+                        <circle id="path-2" cx="17" cy="17" r="17"></circle>
+                    </g>
+                    <circle id="Oval" stroke="#38393A" stroke-width="3" cx="17" cy="17" r="15.5"></circle>
+                </g>
+                <polygon id="Combined-Shape" fill="#38393A" fill-rule="nonzero" points="19.0769231 15.4230769 25.5 15.4230769 25.5 19.5769231 19.0769231 19.5769231 19.0769231 26 14.9230769 26 14.9230769 19.5769231 8.5 19.5769231 8.5 15.4230769 14.9230769 15.4230769 14.9230769 9 19.0769231 9"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

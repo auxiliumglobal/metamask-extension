@@ -77,7 +77,7 @@ UnlockScreen.prototype.render = function () {
           onClick: () => this.props.dispatch(actions.forgotPassword()),
           style: {
             fontSize: '0.8em',
-            color: 'rgb(247, 134, 28)',
+            color: 'rgb(133, 220, 53)',
             textDecoration: 'underline',
           },
         }, 'Restore from seed phrase'),

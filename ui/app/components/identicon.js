@@ -47,14 +47,17 @@ IdenticonComponent.prototype.render = function () {
       })
     )
     : (
-      h('img.balance-icon', {
-        src: './images/eth_logo.svg',
-        style: {
-          height: diameter,
-          width: diameter,
-          borderRadius: diameter / 2,
-        },
-      })
+      
+      h('div.balance-icon-img', [
+        h('img.balance-icon', {
+          src: './images/auxilium-square.svg',
+          // style: {
+          //   height: diameter,
+          //   width: diameter,
+          //   borderRadius: diameter / 2,
+          // },
+        }),
+      ])
     )
 }
 

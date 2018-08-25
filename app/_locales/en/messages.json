@@ -36,7 +36,7 @@
     "message": "Amount + Gas"
   },
   "appDescription": {
-    "message": "Auxilium Browser Extension",
+    "message": "Auxilium Browser Plug-in",
     "description": "The description of the application"
   },
   "appName": {
@@ -576,7 +576,7 @@
     "message": "Message"
   },
   "metamaskDescription": {
-    "message": "Auxilium is a secure identity vault for Auxilium."
+    "message": "Auxilium Browser Plug-in is a secure identity vault for Auxilium."
   },
   "metamaskSeedWords": {
     "message": "Auxilium Seed Words"

@@ -63,12 +63,18 @@ $wallet-balance-breakpoint-range: "screen and (min-width: #{$break-large}) and (
     }
   }
 }
-
-.balance-icon {
-  border-radius: 25px;
-  width: 50px;
+.balance-icon-img{  
   height: 50px;
-  border: 1px solid $alto;
-  padding: 5px;
-  background: $white;
+  width: 50px;
+  border-radius: 25px;
+  border: 1px solid #dedede;
+  background: #fff;
+}
+.balance-icon {
+  // border-radius: 25px;
+  width: 48px;
+  height: 48px;
+  // border: 1px solid $alto;
+  padding: 10px;
+  // background: $white;
 }

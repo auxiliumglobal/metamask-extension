@@ -62,12 +62,12 @@ TokenList.prototype.render = function () {
       this.context.t('troubleTokenBalances'),
       h('span.hotFix', {
         style: {
-          color: 'rgba(247, 134, 28, 1)',
+          color: 'rgba(133, 220, 53, 1)',
           cursor: 'pointer',
         },
         onClick: () => {
           global.platform.openWindow({
-          url: `https://ethplorer.io/address/${userAddress}`,
+          url: `https://explore.auxilium.global/blockchain/address_transactions/${userAddress}`,
         })
         },
       }, this.context.t('here')),
