@@ -149,7 +149,7 @@ TransactionListItem.prototype.render = function () {
         style: {
           height: '22px',
           borderRadius: '22px',
-          color: '#F9881B',
+          color: '#89d615',
           padding: '0 20px',
           backgroundColor: '#FFE3C9',
           display: 'flex',
